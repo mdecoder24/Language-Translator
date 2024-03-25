@@ -353,4 +353,10 @@ const languages = [
     native: "ייִדיש",
     code: "yi",
   },
+  {
+    no: "59",
+    name: "Telugu",
+    native: "తెలుగు",
+    code: "te",
+  },
 ];
